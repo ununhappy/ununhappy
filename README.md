@@ -3,9 +3,13 @@
 目前暂时的阅读计划:
 
 L.C.Evans *Partial Differential Equations* Chap.9 Sec.1-3
+
 :arrow_down:
+
 T. Hyt\"{o}nen et al. *Analysis in Banach Spaces Volume I* Chap.2-4
+
 :arrow_down: (可能整理25首师暑校Boltzmann方程相关内容)
+
 C. Foias et al. *Navier-Stokes Equations and Turbulence* Chap.4-5
 
 ------
