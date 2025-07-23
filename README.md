@@ -2,7 +2,7 @@
 
 目前暂时的阅读计划:
 
-L.C.Evans *Partial Differential Equations* Chap.9 Sec.1-3
+L. C. Evans *Partial Differential Equations* Chap.9 Sec.1-3
 
 :arrow_down:
 
